@@ -1,4 +1,4 @@
-# Top 10 Global Companies Stock Data Analysis
+# Stock Data File Processor
 
 This project is a Java-based application designed to showcase file-handling and data manipulation techniques. It uses stock market data from the **Top 10 Global Companies Stock Data 2024** dataset to demonstrate how to work with CSV files programmatically.
 
